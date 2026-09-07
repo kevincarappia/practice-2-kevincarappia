@@ -1,0 +1,9 @@
+body {
+    background-color: white;
+    color: black;
+}
+nav {
+    background-color: #facb37;
+    color: #111111;
+    border: 6px solid #111111;
+}
