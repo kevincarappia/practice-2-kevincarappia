@@ -26,3 +26,21 @@ aside {
     color: #F6F6F4;
     border: 6px solid #111111;
 }
+main {
+    background-color: #F6F6F4;
+    border: 6px solid #111111;
+}
+article {
+    background-color: #FFFFFF;
+    border: 6px solid #111111;
+}
+section{
+    background-color: #FACB37;
+    border: 6px solid #D83134;
+}
+h2 {
+    color: #D83134
+}
+h3 {
+    color: #3153d1
+}
